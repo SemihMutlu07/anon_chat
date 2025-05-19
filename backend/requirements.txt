@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+cryptography
+python-dotenv
+psycopg2-binary
